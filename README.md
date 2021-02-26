@@ -8,12 +8,13 @@ For Nested List, the lenght of the final list gives the number of rows, and maxi
 
 
 
-## [Warp Perspective](Warp perpective.py)
+## [WarpPerspective](Warp perspective.py)
 Passing an image in the program, click the points in the order [[0, 0], [width, 0], [0, heigth], [width, height]] to extract that part and warp it out into a new image. For another warp image, start clicking on the images again in the same order.
 
 
-## [Color Detection](Color Detection.py)
+## [ColorDetection](Color Detection.py)
 Detecting the color at each pixle point where the mouse got clicked. 
+
 
 ---
 >Keep smiling and work harder
