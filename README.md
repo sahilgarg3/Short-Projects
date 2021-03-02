@@ -15,6 +15,8 @@ _Passing_ an image in the program, click the points in the mentioned order to ex
 ## [Color Detection](ColorDetection.py)
 _Detecting_ the color at each pixle point where the mouse got clicked. 
 
+## [Panorama](panorama.py)
+Stiching n number of images into one to create a single image with similar characteristics.
 
 ---
 >Keep smiling and work harder
