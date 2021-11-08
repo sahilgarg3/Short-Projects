@@ -59,6 +59,8 @@ OpenCV provides a facility to use the mouse as a paint brush or a drawing tool. 
 
 ![Warp Per 3](https://user-images.githubusercontent.com/79501547/140720583-ca1adff0-162a-48aa-962c-2cc1fe8d4f2c.png)
 
+> One can continue marking the points even after getting the previous output to get the warped image of new selected points
+> Click `r` to **reset** the list and `q` to **exit** the program
 
 ## [Color Detection](ColorDetection.py)
 > Click at any place on the image to get the most similar defined color name.
