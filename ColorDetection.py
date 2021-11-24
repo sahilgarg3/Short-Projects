@@ -3,7 +3,7 @@ import pandas as pd
 
 image = cv.imread('Resources/colorpic.jpg')
 image = cv.resize(image, (800, 600))
-df = pd.read_csv('colors.csv', header=None, names=['Colors', 'Colors_Name', 'Hash Value', 'R', 'B', 'G'])
+df = pd.read_csv('Resources/colors.csv', header=None, names=['Colors', 'Colors_Name', 'Hash Value', 'R', 'B', 'G'])
 
 clicked = False
 r = b = g = 0
